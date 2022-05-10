@@ -1,8 +1,17 @@
 <html>
+<head><link rel="stylesheet" type="text/css" href="stylesheet.css"></head>
     <body>
-        <canvas id="canvas" width="800" height="600"></canvas>
-        <script src="robot-arm.js"></script>
-        <script>
+      <div id="backfresh">
+        <a href="https://github.com/kevinkraaijveld">
+        <img alt="Terug naar portfolio" src="../images/Arrows_Back.png">
+        <p>Terug naar portfolio</p></a>
+        <a href="">
+        <img alt="Terug naar portfolio" src="../images/refresh.png">
+        <p>Ververs opdracht</p></a>
+      </div>
+      <canvas id="canvas" width="850" height="550" style="margin-left: 13%;"></canvas>
+      <script src="robot-arm.js"></script>
+      <script>
             // Initialize the robot arm
             var canvas = document.getElementById("canvas");
             var robotArm = new RobotArm(canvas);
@@ -44,5 +53,6 @@
             // Call run to run the animations
             robotArm.run();
         </script>
+        <footer>Made by Kevin Kraaijveld</footer>
     </body>
 </html>

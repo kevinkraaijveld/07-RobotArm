@@ -1,0 +1,13 @@
+div#backfresh{
+  float:right;
+}
+a{
+  color:#333333;
+  text-decoration: none;
+}
+a:hover{
+  color:#898989;
+}
+footer{
+  float:right;
+}
