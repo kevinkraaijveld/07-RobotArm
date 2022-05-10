@@ -19,7 +19,7 @@ Lees de instructies op de wiki pagina hoe de robotarm bibliotheek werkt. Vervolg
 ```
 Verplaats het rode blok één plek naar links.
 
-![Oefening 1](readme/exercise1.png)
+![Oefening 1](Readme/exercise1.png)
 
 ## Oefening 2
 ```javascript
@@ -36,7 +36,7 @@ Verplaats het rode blok één plek naar links.
 ```
 Stappel alle blokken op aan de rechterkant.
 
-![Oefening 2](readme/exercise2.png)
+![Oefening 2](Readme/exercise2.png)
 
 ## Oefening 3
 ```javascript
@@ -53,7 +53,7 @@ Stappel alle blokken op aan de rechterkant.
 ```
 Verplaats de hele stapel blokken één plek naar rechts.
 
-![Oefening 3](readme/exercise3.png)
+![Oefening 3](Readme/exercise3.png)
 
 ## Oefening 4
 ```javascript
@@ -70,7 +70,7 @@ Verplaats de hele stapel blokken één plek naar rechts.
 ```
 Verplaats de hele stapel blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft.
 
-![Oefening 4](readme/exercise4.png)
+![Oefening 4](Readme/exercise4.png)
 
 ## Oefening 5
 ```javascript
@@ -87,7 +87,7 @@ Verplaats de hele stapel blokken één plek naar rechts. Zorg ervoor dat de volg
 ```
 Verplaats alle blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft.
 
-![Oefening 5](readme/exercise6.png)
+![Oefening 5](Readme/exercise6.png)
 
 ## Oefening 6
 ```javascript
@@ -106,7 +106,7 @@ Verplaats iedere stapel één plek naar links.
 
 Je mag maximaal 13 regels code gebruiken!
 
-![Oefening 6](readme/exercise7.png)
+![Oefening 6](Readme/exercise7.png)
 
 ## Oefening 7
 ```javascript
@@ -125,7 +125,7 @@ Verplaats de stapel naar de rechterkant.
 
 Je mag maximaal 13 regels code gebruiken!
 
-![Oefening 7](readme/exercise8.png)
+![Oefening 7](Readme/exercise8.png)
 
 ## Oefening 8
 ```javascript
@@ -144,7 +144,7 @@ Verplaats alle stapels vijf stappen naar rechts.
 
 Je mag maximaal 15 regels code gebruiken!
 
-![Oefening 8](readme/exercise9.png)
+![Oefening 8](Readme/exercise9.png)
 
 ## Oefening 9
 ```javascript
@@ -163,7 +163,7 @@ Draai de volgorde van de blokken om.
 
 Je mag maximaal 20 regels code gebruiken!
 
-![Oefening 9](readme/exercise10.png)
+![Oefening 9](Readme/exercise10.png)
 
 ## Oefening 10
 ```javascript
@@ -182,7 +182,7 @@ Verplaats alle witte blokken één plek naar rechts.
 
 Let op, de blokken zijn iedere keer anders als je het programma start!
 
-![Oefening 10](readme/exercise11.png)
+![Oefening 10](Readme/exercise11.png)
 
 ## Oefening 11
 ```javascript
@@ -201,7 +201,7 @@ Verplaats alle rode blokken naar het einde.
 
 Let op, de blokken zijn iedere keer anders als je het programma start!
 
-![Oefening 11](readme/exercise12.png)
+![Oefening 11](Readme/exercise12.png)
 
 ## Oefening 12
 ```javascript
